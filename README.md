@@ -2,6 +2,10 @@
 
 A powerful password cracking tool with multilingual support, advanced optimizations, and colorful interface.
 
+![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-brightgreen.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+
 ## 🌟 Features
 
 ### 🌍 Multilingual Support
