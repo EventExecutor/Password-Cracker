@@ -31,7 +31,7 @@ A powerful password cracking tool with multilingual support, advanced optimizati
 
 ### Python Dependencies
 ```
-colorama>=0.4.4
+colorama
 ```
 
 ### Python Version
