@@ -78,14 +78,12 @@ TRANSLATIONS = {
 selected_language = 'en'
 
 def get_text(key, *args):
-    """Ottiene il testo tradotto per la chiave specificata"""
     text = TRANSLATIONS[selected_language].get(key, key)
     if args:
         return text.format(*args)
     return text
 
 def select_language():
-    """Seleziona la lingua dell'interfaccia"""
     global selected_language
     
     print(Fore.MAGENTA + "Lingua/Language" + Style.RESET_ALL)
